@@ -18,3 +18,9 @@ with...
 
 ## Contributing
 Feel free to improve upon the theme, as the design decisions taken were my personal preference.
+
+## Screenshots
+![Home page](https://i.imgur.com/YVKDkWP.png)
+![Baskets Summary View](https://i.imgur.com/7agFL8V.png)
+![Individual Basket View](https://i.imgur.com/Uoh3fqp.png)
+![Individual Basket View (With logged requestsO](https://i.imgur.com/ekQwHEx.png)
