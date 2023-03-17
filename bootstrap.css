@@ -21,9 +21,9 @@
     /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
     .footer {
-        background-color: #222222;
+        background-color: #222222 !important;
     }
-    .baskets li { padding: 0 0 5px 22.5px; }
+    .baskets li { padding: 0 0 5px 22.5px !important; }
     
     kbd {
         background-color: whitesmoke !important;
