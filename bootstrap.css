@@ -24,6 +24,7 @@
         background-color: #222222 !important;
     }
     .baskets li { padding: 0 0 5px 22.5px !important; }
+    .control-label { margin-left: 0.25rem }
     
     kbd {
         background-color: whitesmoke !important;
@@ -32,7 +33,7 @@
     .glyphicon-copy, .glyphicon-check {
         display: inline !important;
         vertical-align: initial !important;
-        top: 2px !important;
+        top: 1px !important;
     }
 
     html {
@@ -1238,7 +1239,7 @@
     .h2,
     h3,
     .h3 {
-      margin-top: 2px;
+      margin-top: 15px;
       margin-bottom: 10px;
     }
     h1 small,
@@ -6961,6 +6962,12 @@
     /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
     .baskets li { padding: 0 0 5px 22.5px; }
+
+    .glyphicon-copy, .glyphicon-check {
+      display: inline !important;
+      vertical-align: initial !important;
+      top: 1px !important;
+    }
 
     html {
         font-family: sans-serif;
