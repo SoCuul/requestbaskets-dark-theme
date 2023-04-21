@@ -6,6 +6,7 @@ It is a modified version of the [darkly](https://bootswatch.com/3/darkly/) theme
 
 ## Installation
 As of version v1.2.2, Request Buckets now has built-in support for this theme.
+
 To apply it, pass `-theme adaptive` to the executable.
 
 ### Installation (Manual)
