@@ -5,6 +5,10 @@ This is a dark-theme for your self-hosted instance of [**Request Baskets**](http
 It is a modified version of the [darkly](https://bootswatch.com/3/darkly/) theme from [bootswatch](https://bootswatch.com/), to integrate perfectly into the dashboard interface.
 
 ## Installation
+As of version v1.2.2, Request Buckets now has built-in support for this theme.
+To apply it, pass `-theme adaptive` to the executable.
+
+### Installation (Manual)
 To apply this theme, you must build **Request Baskets** from the source code provided here: https://github.com/darklynx/request-baskets
 Once you clone the repo, replace the following lines in every single html file:
 ```html
