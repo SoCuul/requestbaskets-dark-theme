@@ -1,11 +1,11 @@
-# Request Baskets Dark Theme
-
-## Important
+# Important
 This theme has been forked, and is now being continued by [darklynx](https://github.com/darklynx), the author of the original software. The information below is therefore outdated, and may be incorrect at the time of reading.
 
 You can view the new repository here: https://github.com/darklynx/requestbaskets-dark-theme
 
 ---
+
+# Request Baskets Dark Theme
 
 ## Description
 This is a dark-theme for your self-hosted instance of [**Request Baskets**](https://github.com/darklynx/request-baskets).
