@@ -1,5 +1,12 @@
 # Request Baskets Dark Theme
 
+## Important
+This theme has been forked, and is now being continued by [darklynx](https://github.com/darklynx), the author of the original software. The information below is therefore outdated, and may be incorrect at the time of reading.
+
+You can view the new repository here: https://github.com/darklynx/requestbaskets-dark-theme
+
+---
+
 ## Description
 This is a dark-theme for your self-hosted instance of [**Request Baskets**](https://github.com/darklynx/request-baskets).
 It is a modified version of the [darkly](https://bootswatch.com/3/darkly/) theme from [bootswatch](https://bootswatch.com/), to integrate perfectly into the dashboard interface.
@@ -18,7 +25,7 @@ Once you clone the repo, replace the following lines in every single html file:
 ```
 with...
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/socuul/requestbaskets-dark-theme@09176b7/bootstrap.min.css" integrity="sha384-37zMSuO/NCFq9o7XMDpmgGqoLfcr/RZ8YAvI9m2OX+AfMbwaV9HWto9wg9SIwHtc" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/socuul/requestbaskets-dark-theme@09176b7/bootstrap.min.css" crossorigin="anonymous">
 ```
 
 ## Contributing
